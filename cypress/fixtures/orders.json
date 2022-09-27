@@ -1,0 +1,38 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "name": "Chavo",
+      "ingredients": [
+        "frijoles",
+        "lechuga",
+        "carnitas",
+        "queso fresco",
+        "jalapenos"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Nacho",
+      "ingredients": [
+        "carne asada",
+        "pico de gallo",
+        "lechuga",
+        "crema mexicana",
+        "queso fresco",
+        "cilantro"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Gordo",
+      "ingredients": [
+        "crema mexicana",
+        "sofritas",
+        "frijoles",
+        "lengua",
+        "salsa picante"
+      ]
+    }
+  ]
+}

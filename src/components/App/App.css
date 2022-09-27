@@ -15,3 +15,8 @@
   background-repeat: no-repeat;
   background-image: url('../../burritos.jpg');
 }
+
+h1 {
+  color: yellow;
+  text-shadow: 2px 2px lime;
+}
